@@ -15,7 +15,7 @@ ours
 }
 
 .lead {
-  font-family: 'Marcellus', serif;  
+  font-family: 'Marcellus', serif;
 }
 
 p {
@@ -96,8 +96,21 @@ h1 {
   font-size:50px;
 }
 
+h2 {
+  font-family: 'Marcellus', serif;
+}
+
 h3 {
-  font-family: 'Marcellus', serif;  
+  font-family: 'Marcellus', serif;
+}
+
+li {
+  font-family: 'Marcellus', serif;
+  font-size: 20px;
+}
+
+.nav-item {
+    font-size: 14px;
 }
 
 .logo {
@@ -124,7 +137,7 @@ h3 {
 }
 
 #footer > .container {
-  
+
 }
 
 @media (min-width: 767px) {
@@ -132,11 +145,11 @@ h3 {
       float:none;
   }
 }
-  
+
 .navbar-nav {
-  margin: 1px 1px; 
-}  
-  
+  margin: 1px 1px;
+}
+
 /* customize nav style */
 .navbar-custom {
     background-color: rgb(245, 160, 14);
@@ -177,12 +190,12 @@ h3 {
 
 @media (max-width: 768px) {
 	header {
-	
+
 	}
 }
 
 #map-canvas {
-  	width: 100%; 
+  	width: 100%;
   	height: 300px;
 	margin: 0;
 	padding: 15px;
@@ -200,8 +213,8 @@ h3 {
 }
 .scroll-top a:link,.scroll-top a:visited {
   color:#222;
-} 
- 
+}
+
 
 section {
   color: #ffffff;
@@ -212,7 +225,7 @@ section {
 }
 
 .bg-1 {
-	background: url('../img/chairs.png') no-repeat center center fixed; 
+	background: url('../img/chairs.png') no-repeat center center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -220,7 +233,7 @@ section {
 }
 
 .bg-2 {
-	background: url('../img/ica.jpg') no-repeat center center fixed; 
+	background: url('../img/ica.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -228,7 +241,7 @@ section {
 }
 
 .bg-3 {
-	background: url('http://www.bootply.com/assets/example/bg_blueplane.jpg') no-repeat center center fixed; 
+	background: url('http://www.bootply.com/assets/example/bg_blueplane.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
